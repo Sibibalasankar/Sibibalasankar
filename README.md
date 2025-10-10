@@ -15,7 +15,7 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0077B5)](https://www.linkedin.com/in/sibibs)
 [![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white&labelColor=FF5722)](https://sibibs.dev)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=D14836)](mailto:sibi@example.com)
-[![Profile Views](https://komarev.com/ghpvc/?username=sibibs&color=blueviolet&style=for-the-badge)](https://github.com/sibibs)
+[![Profile Views](https://komarev.com/ghpvc/?username=Sibibalasankar&color=blueviolet&style=for-the-badge)](https://github.com/Sibibalasankar)
 
 </div>
 
@@ -144,17 +144,20 @@ AI-based farming assistant for tribal communities, integrating sensors and predi
 ## 📊 GitHub Analytics
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Sibibalasankar&show_icons=true&theme=react&include_all_commits=true&count_private=true&hide_border=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sibibalasankar&layout=compact&langs_count=8&theme=react&hide_border=true"/>
-</div>
+  
+![Sibi's GitHub stats](https://github-readme-stats.vercel.app/api?username=Sibibalasankar&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true)
 
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Sibibalasankar&theme=react&hide_border=true" alt="GitHub Streak"/>
 </div>
 
 <div align="center">
   
-[![Sibi's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Sibibalasankar&theme=react-dark&hide_border=true&area=true)](https://github.com/Sibibalasankar)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Sibibalasankar&layout=compact&theme=radical&hide_border=true&langs_count=8)
+
+</div>
+
+<div align="center">
+  
+![GitHub Streak](https://streak-stats.demolab.com/?user=Sibibalasankar&theme=radical&hide_border=true)
 
 </div>
 
@@ -163,7 +166,7 @@ AI-based farming assistant for tribal communities, integrating sensors and predi
 ## 🏆 GitHub Trophies
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=sibibs&theme=darkhub&no-frame=true&no-bg=false&row=1&column=7" width="100%" alt="Trophy" />
+  <img src="https://github-profile-trophy.vercel.app/?username=Sibibalasankar&theme=darkhub&no-frame=true&no-bg=false&row=1&column=7" width="100%" alt="Trophy" />
 </div>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
@@ -188,7 +191,7 @@ gantt
 
 <div align="center">
   
-[![Sibi's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=sibibs&theme=react-dark&hide_border=true&area=true)](https://github.com/sibibs)
+[![Sibi's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Sibibalasankar&theme=react-dark&hide_border=true&area=true)](https://github.com/Sibibalasankar)
 
 </div>
 
@@ -212,9 +215,9 @@ gantt
 ## 🐍 Contribution Activity
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/sibibs/sibibs/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/sibibs/sibibs/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/sibibs/sibibs/output/github-contribution-grid-snake.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Sibibalasankar/Sibibalasankar/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Sibibalasankar/Sibibalasankar/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Sibibalasankar/Sibibalasankar/output/github-contribution-grid-snake.svg">
 </picture>
 
 *Note: To enable the snake animation, you'll need to set up a GitHub Action. [Learn how here](https://github.com/Platane/snk)*
@@ -239,7 +242,7 @@ gantt
   
 ### 💙 Show some love by starring ⭐ some repositories!
 
-![Visitor Count](https://profile-counter.glitch.me/sibibs/count.svg)
+![Visitor Count](https://profile-counter.glitch.me/Sibibalasankar/count.svg)
 
 **"Code is like humor. When you have to explain it, it's bad!"** 😄
 
