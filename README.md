@@ -35,7 +35,7 @@ const sibi = {
             js: ["Node.js", "Express"],
             python: ["Flask", "FastAPI"]
         },
-        mobile: ["Flutter", "React Native"],
+        mobile: ["React Native"],
         databases: ["MongoDB", "Firebase", "PostgreSQL"],
         blockchain: ["Solidity", "Web3.js", "Ethers.js"],
         ai: ["TensorFlow", "PyTorch", "Langchain"]
@@ -132,7 +132,7 @@ AI-based farming assistant for tribal communities, integrating sensors and predi
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 
 ### Mobile & Others
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Web3.js](https://img.shields.io/badge/Web3.js-F16822?style=for-the-badge&logo=web3.js&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
@@ -144,16 +144,18 @@ AI-based farming assistant for tribal communities, integrating sensors and predi
 ## 📊 GitHub Analytics
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=sibibs&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sibibs&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0d1117"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=sibibs&show_icons=true&theme=react&include_all_commits=true&count_private=true&hide_border=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sibibs&layout=compact&langs_count=8&theme=react&hide_border=true"/>
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sibibs&theme=tokyonight&hide_border=true&background=0d1117" alt="GitHub Streak"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sibibs&theme=react&hide_border=true" alt="GitHub Streak"/>
 </div>
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=sibibs&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=00D9FF&line=00D9FF&point=FFFFFF" width="100%"/>
+  
+[![Sibi's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=sibibs&theme=react-dark&hide_border=true&area=true)](https://github.com/sibibs)
+
 </div>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
@@ -161,7 +163,7 @@ AI-based farming assistant for tribal communities, integrating sensors and predi
 ## 🏆 GitHub Trophies
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=sibibs&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7" width="100%" alt="Trophy" />
+  <img src="https://github-profile-trophy.vercel.app/?username=sibibs&theme=darkhub&no-frame=true&no-bg=false&row=1&column=7" width="100%" alt="Trophy" />
 </div>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
@@ -185,7 +187,9 @@ gantt
 ## 📈 Contribution Graph
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=sibibs&custom_title=Sibi's%20Contribution%20Graph&bg_color=0d1117&color=00D9FF&line=00D9FF&point=FFFFFF&area_color=00D9FF&title_color=00D9FF&area=true" alt="Contribution Graph" width="100%">
+  
+[![Sibi's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=sibibs&theme=react-dark&hide_border=true&area=true)](https://github.com/sibibs)
+
 </div>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
@@ -205,18 +209,24 @@ gantt
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-## 🐍 Contribution Snake
+## 🐍 Contribution Activity
 
-<div align="center">
-  <img src="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
-</div>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/sibibs/sibibs/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/sibibs/sibibs/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/sibibs/sibibs/output/github-contribution-grid-snake.svg">
+</picture>
+
+*Note: To enable the snake animation, you'll need to set up a GitHub Action. [Learn how here](https://github.com/Platane/snk)*
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 ## ✨ Random Dev Quote
 
 <div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Random Dev Quote"/>
+  
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
+
 </div>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
