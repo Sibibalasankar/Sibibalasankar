@@ -144,17 +144,17 @@ AI-based farming assistant for tribal communities, integrating sensors and predi
 ## 📊 GitHub Analytics
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=sibibs&show_icons=true&theme=react&include_all_commits=true&count_private=true&hide_border=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sibibs&layout=compact&langs_count=8&theme=react&hide_border=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Sibibalasankar&show_icons=true&theme=react&include_all_commits=true&count_private=true&hide_border=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sibibalasankar&layout=compact&langs_count=8&theme=react&hide_border=true"/>
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sibibs&theme=react&hide_border=true" alt="GitHub Streak"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Sibibalasankar&theme=react&hide_border=true" alt="GitHub Streak"/>
 </div>
 
 <div align="center">
   
-[![Sibi's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=sibibs&theme=react-dark&hide_border=true&area=true)](https://github.com/sibibs)
+[![Sibi's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Sibibalasankar&theme=react-dark&hide_border=true&area=true)](https://github.com/Sibibalasankar)
 
 </div>
 
