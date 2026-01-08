@@ -33,15 +33,15 @@ const sibi: Developer = {
   name: "Sibi BS",
   role: "Full Stack Developer & AI Enthusiast",
   location: "Tamil Nadu, India 🇮🇳",
-  languages: ["JavaScript", "Python", "Dart", "Solidity", "TypeScript", "Java"],
+  languages: ["Java", "Python", "JavaScript", "Solidity", "TypeScript"],
   currentMission: "Building AI-powered solutions for Web3 security",
   lifePhilosophy: "Code with passion, debug with patience, deploy with confidence! 🚀"
 };
 
 // Current Status
 const status = {
-  learning: ["Advanced AI/ML", "Web3 Development", "Cloud Architecture"],
-  working_on: ["AI Smart Contract Auditor", "DeFi Applications"],
+  learning: ["Advanced Generative AI/ML", "Web3 Development", "Cloud Architecture"],
+  working_on: ["AI Smart Contract Auditor", "DApps"],
   collaboration: "Open to exciting projects and opportunities!",
   ask_me_about: ["React", "Node.js", "AI", "Blockchain", "Mobile Development"]
 };
@@ -72,12 +72,10 @@ const status = {
 ### 🗄️ Databases
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
 ### 📱 Mobile Development
 ![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
 
 ### ⛓️ Blockchain & Web3
 ![Solidity](https://img.shields.io/badge/Solidity-363636?style=for-the-badge&logo=solidity&logoColor=white)
@@ -87,13 +85,10 @@ const status = {
 ### 🤖 AI & Machine Learning
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
-![Langchain](https://img.shields.io/badge/Langchain-121212?style=for-the-badge&logo=chainlink&logoColor=white)
 
 ### 🛠️ Tools & Platforms
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
 ![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 
@@ -120,9 +115,9 @@ AI-powered vulnerability detection system for Solidity smart contracts with auto
 - Comprehensive audit reports
 
 **🛠️ Stack:**
-`Python` `Solidity` `TensorFlow` `Web3` `FastAPI` `React`
+`Python` `Solidity` `Web3` `FastAPI` `React`
 
-**📊 Impact:** Analyzed 500+ contracts | Detected 200+ vulnerabilities
+**📊 Impact:** Analyzed 100+ contracts | Detected 200+ vulnerabilities
 
 </td>
 <td width="50%" valign="top">
@@ -139,7 +134,7 @@ Modern, responsive website for logistics company with enhanced SEO and user expe
 - Mobile-responsive design
 
 **🛠️ Stack:**
-`React` `Node.js` `MongoDB` `Express` `Tailwind CSS`
+`Html` `Css` `Bootstrap` 
 
 **📊 Impact:** 300% increase in client inquiries | 50% faster load times
 
@@ -161,9 +156,9 @@ Comprehensive audit workflow management platform for pharmaceutical companies.
 - Analytics dashboard
 
 **🛠️ Stack:**
-`React` `Firebase` `Material-UI` `Chart.js`
+`React.js` `MSSql` `Node.js` `Chart.js` `Express.js` `Tailwind Css`
 
-**📊 Impact:** 60% faster audit cycles | 40% improved compliance
+**📊 Impact:** 90% faster audit cycles | 80% improved compliance
 
 </td>
 <td width="50%" valign="top">
@@ -180,7 +175,7 @@ AI-powered farming assistant empowering tribal communities with IoT sensors and 
 - Multi-language support
 
 **🛠️ Stack:**
-`Python` `IoT` `TensorFlow` `Flask` `React`
+`Python`  `Node` `Flask` `React`
 
 **📊 Impact:** 25% yield improvement | 500+ farmers helped
 
