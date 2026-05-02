@@ -85,13 +85,14 @@ const sibi = {
 
 | Project | Description | Stack | Live |
 |---------|-------------|-------|------|
-| 🔐 **AuditSmartAI** | AI-powered smart contract vulnerability detection & audit reports | `Python` `Solidity` `FastAPI` `React` | [→](https://auditsmartai.xyz) |
-| 📋 **LLS Audit System** | Audit workflow platform for pharma — tracking, analytics, action plans | `React` `Node.js` `MSSQL` `Chart.js` | [→](https://llsamsystem.netlify.app) |
-| 🌾 **Smart Tribal Farming** | AI farming assistant — yield prediction, soil monitoring, multilingual | `Python` `Flask` `React` | [→](https://smart-tribal-farming.onrender.com/) |
-| 🌐 **Green Wheels** | Logistics company website with shipment tracking & SEO | `HTML` `CSS` `Bootstrap` | [→](https://greenwheelscs.in) |
-| 🔁 **Swap Saga AMM DEX** | Uniswap-style AMM with token swaps, liquidity pools & analytics | `Solidity` `React` `Ethers.js` | [→](https://github.com/Sibibalasankar) |
-| 🎓 **EduCert** | Decentralized certificate issuance & verification on-chain | `Solidity` `React` `IPFS` | [→](https://github.com/Sibibalasankar) |
-| 🔑 **Arcane Gen** | Secure BTC & EVM wallet generator for Web3 learning | `JavaScript` `Web3` | [→](https://github.com/Sibibalasankar) |
+| 🔁 **Swap Saga AMM DEX** | Uniswap-style AMM with token swaps, liquidity pools & live analytics | `Solidity` `React` `Ethers.js` | [→](https://swap-saga.onrender.com/) |
+| 🔑 **Arcane Gen** | Secure BTC & EVM wallet generator for Web3 learning | `JavaScript` `Web3` | [→](https://arcane-gen.onrender.com) |
+| 🔐 **AuditSmartAI** | AI-powered smart contract vulnerability detection & audit reports | `Python` `Solidity` `FastAPI` `React` | [→](https://auditsmartai.xyz/) |
+| 🎓 **EduCert** | Decentralized certificate issuance & verification on-chain | `Solidity` `React` `IPFS` | [→](https://educert25.onrender.com) |
+| 📋 **LLS Audit System** | Audit workflow platform for pharma — tracking, analytics, action plans | `React` `Node.js` `MSSQL` `Chart.js` | [→](https://llsamsystem.netlify.app/) |
+| 🌾 **Smart Tribal Farming** | AI farming assistant — yield prediction, soil monitoring, multilingual | `Python` `Flask` `React` | [→](https://smart-tribal-farming.onrender.com) |
+| 🌐 **Green Wheels** | Logistics company website with shipment tracking & SEO | `HTML` `CSS` `Bootstrap` | [→](https://www.greenwheelscs.in/) |
+| 💰 **ChitFund App** | Chit fund community mobile application | `React Native` `Node.js` | — |
 
 </div>
 
@@ -109,22 +110,6 @@ const sibi = {
 | 2023 | Python Internship | Ascentz Technology |
 | 2022 | App Dev & Backend Engineering | Lakshmi Life Sciences |
 | 2022 | Administration | SRI Valves |
-
-</div>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
-
-## 🏆 Achievements
-
-- 🏆 **Best Paper Award** — Smart Tribal Farming Expo, KGCAS (2023)
-- 🥇 **National Level 1st Prize** — Technical Symposium, SSEC College (2023)
-- 📄 **1st Place** — Paper Presentation, SRIP College (2022)
-- 💻 **2nd Place** — Web Development, Infest Competition, INFO College (2022)
-- ✨ **2nd Prize** — Project Expo, Polyfest, SRE College (2021)
-
-<div align="center">
-
-![Trophy](https://github-profile-trophy.vercel.app/?username=Sibibalasankar&theme=darkhub&no-frame=true&row=1&column=7&margin-w=10)
 
 </div>
 
