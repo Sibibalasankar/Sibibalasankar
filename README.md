@@ -105,6 +105,16 @@ Decentralized certificate issuance and verification platform on-chain.
 
 ---
 
+## 🐍 Contribution Snake
+
+<div align="center">
+
+![Snake animation](https://raw.githubusercontent.com/Sibibalasankar/Sibibalasankar/output/github-contribution-grid-snake-dark.svg)
+
+</div>
+
+---
+
 <div align="center">
 
 *"Code is poetry written in logic."*  
